@@ -6,11 +6,11 @@ A small VR FPS game. You can play with SteamVR.
 ## Description
 高速連射できる銃で3つのエリアを通り、敵を倒していくゲームです。道中の星を取ると連射力や飛距離が上がります。3つ目のエリアの大きな星を取るとクリアです。
 <br>
-※有料アセット等は除きました。私の書いたソースコードのみご覧になれます。
+※有料アセット等は除きました。私の創作物のみご覧になれます (一部例外あり)。
 <br><br>
 It is a game that passes through three areas while defeating an enemy with a gun that can fire at high speed. If you take the star of the item, the firing rate and flying distance will increase. The big star in the third area is the goal.
 <br>
-(Removed paid assets. you can see only the source code I wrote.)
+(Removed paid assets. You can only see my creations (with some exceptions).)
 
 ## Demo
 ↓Youtube Link
