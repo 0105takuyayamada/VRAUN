@@ -17,7 +17,7 @@ It is a game that passes through three areas while defeating an enemy with a gun
 <br>
 [![VRAUN](https://i.ytimg.com/vi/bsUs4_VK_UM/hqdefault.jpg "Youtubeリンク")](https://www.youtube.com/watch?v=bsUs4_VK_UM)
 
-## Install
+## Download
 Download URL : https://drive.google.com/open?id=1Z2ZQK_va4K_zmH_dKh0z9wlCgu5JwRzb
 
 ## Background
