@@ -1,0 +1,6 @@
+newmtl MeshBaker-Standard-LM-1-mat
+Kd 1 1 1
+map_Kd null
+map_Bump null
+illum 2
+
