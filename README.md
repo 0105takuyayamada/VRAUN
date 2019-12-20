@@ -1,4 +1,4 @@
-# V RAUN
+# VRAUN
 小規模なVRのFPSゲームです。SteamVRで遊べます。
 <br>
 A small VR FPS game. You can play with SteamVR.
